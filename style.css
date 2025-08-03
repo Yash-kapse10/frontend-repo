@@ -41,3 +41,26 @@ h1 {
   font-weight: bold;
   margin-top: 20px;
 }
+
+.query-container {
+  background: #fff9f0;
+  border-left: 6px solid #ff8c00;
+}
+
+.query-intro {
+  font-style: italic;
+  color: #555;
+}
+
+.query-form label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+  color: #444;
+}
+
+.query-form textarea {
+  resize: vertical;
+  min-height: 120px;
+}
+
